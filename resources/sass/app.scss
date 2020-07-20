@@ -1,0 +1,32 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$fa-font-path: "../webfonts";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.router-link-active {
+  background-color: #007bff !important;
+color:#ffffff !important;
+}
+.widget-user-header {
+  background: linear-gradient(to right bottom, rgba($color-primary-light, 0.8), 
+  rgba($color-primary-dark, 0.8)), url('/images/avatar04.png') !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  height: 300px !important;
+}

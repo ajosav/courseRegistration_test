@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "course_code": "SER001",
+      "title": "use of English",
+      "session_id": 1,
+      "reg_count": "1",
+      "faculty": "general",
+      "features": {
+        "unit": "4",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "1",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 2,
+      "course_code": "SEA001",
+      "title": "",
+      "session_id": 1,
+      "reg_count": "4",
+      "faculty": "administration",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "1",
+        "payment": "1",
+        "material": "0",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 3,
+      "course_code": "SEA002",
+      "title": "",
+      "session_id": 2,
+      "reg_count": "4",
+      "faculty": "administration",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "1",
+        "payment": "1",
+        "material": "1",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 4,
+      "course_code": "SEO001",
+      "title": "fundamentals of human behaviour",
+      "session_id": 1,
+      "reg_count": "6",
+      "faculty": "social sciences",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "0",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 5,
+      "course_code": "SEO002",
+      "title": "man and his environment",
+      "session_id": 2,
+      "reg_count": "11",
+      "faculty": "social sciences",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "1",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 6,
+      "course_code": "SEO003",
+      "title": "principle and practice of entepreneurship",
+      "session_id": 1,
+      "reg_count": "21",
+      "faculty": "social sciences",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "1",
+        "material": "0",
+        "attendance": "1",
+        "practical_class": "1",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 7,
+      "course_code": "SEG001",
+      "title": "human and its biological environment",
+      "session_id": 1,
+      "reg_count": "90",
+      "faculty": "agriculture",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "0",
+        "field_trip": "1",
+        "payment": "1",
+        "material": "0",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 8,
+      "course_code": "SEO004",
+      "title": "business environment and approaches to business startup",
+      "session_id": 2,
+      "reg_count": "18",
+      "faculty": "social sciences",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "1",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 9,
+      "course_code": "SEG002",
+      "title": "food for the nation",
+      "session_id": 2,
+      "reg_count": "4",
+      "faculty": "agriculture",
+      "features": {
+        "unit": "2",
+        "test": "0",
+        "field_trip": "1",
+        "payment": "1",
+        "material": "0",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 10,
+      "course_code": "SEE001",
+      "title": "indigenous education in Nigeria",
+      "session_id": 1,
+      "reg_count": "2",
+      "faculty": "education",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "1",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 11,
+      "course_code": "SER002",
+      "title": "history of africa",
+      "session_id": 2,
+      "reg_count": "0",
+      "faculty": "arts",
+      "features": {
+        "unit": "4",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 12,
+      "course_code": "SEL001",
+      "title": "introduction to law",
+      "session_id": 1,
+      "reg_count": "5",
+      "faculty": "law",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "0",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 13,
+      "course_code": "SEL002",
+      "title": "introduction to legal institution and processes",
+      "session_id": 2,
+      "reg_count": "9",
+      "faculty": "law",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "0",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 14,
+      "course_code": "SEP001",
+      "title": "drug and society I",
+      "session_id": 1,
+      "reg_count": "11",
+      "faculty": "pharmacy",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 15,
+      "course_code": "SEP002",
+      "title": "drug and society II",
+      "session_id": 2,
+      "reg_count": "11",
+      "faculty": "pharmacy",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 16,
+      "course_code": "SEH001",
+      "title": "man and his health",
+      "session_id": 1,
+      "reg_count": "15",
+      "faculty": "health sciences",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "0",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 17,
+      "course_code": "SED001",
+      "title": "",
+      "session_id": 1,
+      "reg_count": "9",
+      "faculty": "dentistry",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "1",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 18,
+      "course_code": "SES001",
+      "title": "",
+      "session_id": 1,
+      "reg_count": "1",
+      "faculty": "science",
+      "features": {
+        "unit": "2",
+        "semester": "1",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    },
+    {
+      "id": 19,
+      "course_code": "SES002",
+      "title": "",
+      "session_id": 2,
+      "reg_count": "1",
+      "faculty": "science",
+      "features": {
+        "unit": "2",
+        "semester": "2",
+        "test": "1",
+        "field_trip": "0",
+        "payment": "0",
+        "material": "1",
+        "attendance": "0",
+        "practical_class": "0",
+        "exam": "1"
+      }
+    }
+  ]
+  
