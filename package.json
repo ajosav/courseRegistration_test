@@ -28,7 +28,7 @@
         "cross-env": "^6.0.3",
         "laravel-vue-pagination": "^2.3.1",
         "moment": "^2.24.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "sweetalert2": "^9.6.0",
         "vform": "^1.0.1",
         "vue-progressbar": "^0.7.5",
